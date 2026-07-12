@@ -19,7 +19,7 @@ export default function CTA() {
 
       <div className="flex justify-center gap-4 flex-wrap">
         <a
-          href="https://pf-app.paisa-base.com/signUp/?inviteCode=yYMZ8a"
+          href="https://pf-app.paisa-base.com/signUp/?inviteCode=MCaR5Q"
           target="_blank"
           rel="noreferrer"
           onClick={trackLead}
@@ -29,7 +29,7 @@ export default function CTA() {
         </a>
 
         <a
-          href="https://t.me/Paisabaseofficial"
+          href="https://t.me/+NJXBJoXdo585MmI1"
           target="_blank"
           rel="noreferrer"
           onClick={trackContact}
