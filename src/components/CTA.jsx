@@ -29,7 +29,7 @@ export default function CTA() {
         </a>
 
         <a
-          href="https://t.me/+NJXBJoXdo585MmI1"
+          href="https://telegram.me/+NJXBJoXdo585MmI1"
           target="_blank"
           rel="noreferrer"
           onClick={trackContact}
